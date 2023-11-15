@@ -30,7 +30,7 @@ Execute the program using runserver command.
 <body>
 <center>
 <img src="/static/logo.png" height="100" width="540">
- <table border="7" cellspacing="4"cellpadding="15"bgcolor="cyan">
+ <table border="7" cellspacing="4"cellpadding="15"bgcolor="lightblue">
 <caption><h2>SLOT TIMETABLE Rahul V (23012304)</h2></caption>
 <tr>
 <th bgcolor="red">Day/Time</th>
@@ -139,7 +139,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Alt text](<Screenshot (19).png>)
+![Alt text](<Screenshot (20).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
