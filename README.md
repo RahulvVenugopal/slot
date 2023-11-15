@@ -33,15 +33,15 @@ Execute the program using runserver command.
  <table border="7" cellspacing="4"cellpadding="15"bgcolor="cyan">
 <caption><h2>SLOT TIMETABLE Rahul V (23012304)</h2></caption>
 <tr>
-<th bgcolor="yellow">Day/Time</th>
-<th bgcolor="yellow">8-10</th>
-<th bgcolor="yellow">10-12</th>
-<th bgcolor="yellow">12-1</th>
-<th bgcolor="yellow">1-3</th>
-<th bgcolor="yellow">3-5</th>
+<th bgcolor="red">Day/Time</th>
+<th bgcolor="green">8-10</th>
+<th bgcolor="green">10-12</th>
+<th bgcolor="green">12-1</th>
+<th bgcolor="green">1-3</th>
+<th bgcolor="green">3-5</th>
 </tr>
 <tr>
-<th bgcolor="yellow">MON</th>
+<th bgcolor="pink">MON</th>
 <td>C</td>
 <td>C ENGLISH</td>
 <td>BREAK</td>
@@ -49,7 +49,7 @@ Execute the program using runserver command.
 <td>PHYSICS</td>
 </tr>
 <tr>
-<th bgcolor="yellow">TUE</th>
+<th bgcolor="pink">TUE</th>
 <td>PYTHON</td>
 <td>C</td>
 <td>BREAK</td>
@@ -57,7 +57,7 @@ Execute the program using runserver command.
 <td>SOFT SKILLS</td>
 </tr>
 </tr>
-<th bgcolor="yellow">WED</th>
+<th bgcolor="pink">WED</th>
 <td>FWAD  </td>
 <td>FREE SLOT   </td>
 <td>BREAK</td>
@@ -65,7 +65,7 @@ Execute the program using runserver command.
 <td>PYTHON  </td>
 
 </tr>
-<th bgcolor="yellow">THURS</th>
+<th bgcolor="pink">THURS</th>
 <td> FREE SLOT  </td>
 <td>FWAD   </td>
 <td>BREAK</td>
@@ -73,7 +73,7 @@ Execute the program using runserver command.
 <td>MATHS</td>
 </tr>
 </tr>
-<th bgcolor="yellow">FRI</th>
+<th bgcolor="pink">FRI</th>
 <td>MATHS</td>
 <td>PHYSICS</td>
 <td>BREAK</td>
@@ -136,11 +136,10 @@ Execute the program using runserver command.
 </center>
 </body>
 </html>
-
 ```
 
 ## OUTPUT
-![Alt text](<Screenshot (12).png>)
+![Alt text](<Screenshot (19).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
